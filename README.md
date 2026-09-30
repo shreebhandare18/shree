@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Shrivardhan Bhandare 👋
 
-<!--
-**shriiii18/shriiii18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓Welcome to my GitHub profile! I'm a Data Science student passionate about turning data into insights.
+I enjoy working on machine learning projects, data analysis, and exploring new tools in the data science ecosystem.
 
-Here are some ideas to get you started:
+🧰 Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Languages: Python, SQL ,C ,html ,CSS 
+📚 Libraries: pandas, NumPy, scikit-learn, Matplotlib, PyTorch
+🧠 ML/DL: Classification, Regression, Neural Networks
+🛠️ Tools: Jupyter Notebook, VS Code, Git, GitHub, Excel
+☁️ Cloud: Google Colab, Kaggle Kernels
+🚀 Current Learning Goals 📊 Improving data analysis skills with pandas, NumPy, and Matplotlib 📚 Preparing for certifications like Google Data Analytics, IBM Data Science,AWS etc.
+
+📫 Connect With Me
+
+✉️ Email: shrivardhanbhandare@gmail.com
+
+Thanks for visiting my profile! ⭐️

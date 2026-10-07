@@ -14,6 +14,6 @@ I enjoy working on machine learning projects, data analysis, and exploring new t
 
 📫 Connect With Me
 
-✉️ Email: shrivardhanbhandare@gmail.com
+✉️ Email: shrivardhanbhandare18@gmail.com
 
 Thanks for visiting my profile! ⭐️
